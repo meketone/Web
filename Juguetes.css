@@ -66,4 +66,10 @@
   .Jugueteria {
     left: 248px; top: 36px; position: absolute; color: #700057; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word
   }
+  .Cantidad{
+    left: 23px; top: 2px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word
+  }
+  .Precio{
+ color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word
+  }
   
